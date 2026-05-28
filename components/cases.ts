@@ -1,4 +1,5 @@
 // Auto-generated — DO NOT EDIT
+
 export type CaseType = "pdf" | "image" | "gallery";
 
 export interface CaseItem {
@@ -12,40 +13,73 @@ export interface CaseItem {
 }
 
 export const cases: CaseItem[] = [
-  { "id": "001", "type": "pdf", "title": "Proekt feshn predprinimatelstvo", "category": "biznes-prezentacii", "media": "/cases/biznes-prezentacii/Proekt_feshn_predprinimatelstvo_.pdf" },
-  { "id": "002", "type": "pdf", "title": "prezentatsiya zozh s nulya", "category": "biznes-prezentacii", "media": "/cases/biznes-prezentacii/prezentatsiya_zozh_s_nulya.pdf" },
-  { "id": "003", "type": "pdf", "title": "Brendbuk (4)", "category": "brandbuki", "media": "/cases/brandbuki/Brendbuk_(4).pdf" },
-  { "id": "004", "type": "pdf", "title": "brendbuk (3)", "category": "brandbuki", "media": "/cases/brandbuki/brendbuk_(3).pdf" },
-  { "id": "005", "type": "pdf", "title": "brendbuk 2.0", "category": "brandbuki", "media": "/cases/brandbuki/brendbuk_2.0.pdf" },
-  { "id": "006", "type": "pdf", "title": "kursk legche", "category": "brandbuki", "media": "/cases/brandbuki/kursk_legche.pdf" },
-  { "id": "007", "type": "pdf", "title": "igra 240217 142422", "category": "dizajn-igr", "media": "/cases/dizajn-igr/igra_240217_142422.pdf" },
-  { "id": "008", "type": "pdf", "title": "prilozhenie fiol tsvet 240215 184612", "category": "dizajn-igr", "media": "/cases/dizajn-igr/prilozhenie_fiol_tsvet_240215_184612.pdf" },
-  { "id": "009", "type": "pdf", "title": "sayt (2)", "category": "dizajn-sajtov", "media": "/cases/dizajn-sajtov/sayt_(2).pdf" },
-  { "id": "010", "type": "image", "title": "fen Montazhnaya oblast 1", "category": "kartochki-socseti", "media": "/cases/kartochki-socseti/fen_Montazhnaya_oblast_1.jpg" },
-  { "id": "011", "type": "image", "title": "rzhb lampa Montazhnaya oblast 1", "category": "kartochki-socseti", "media": "/cases/kartochki-socseti/rzhb_lampa_Montazhnaya_oblast_1.jpg" },
-  { "id": "012", "type": "image", "title": "sirop Montazhnaya oblast 1", "category": "kartochki-socseti", "media": "/cases/kartochki-socseti/sirop_Montazhnaya_oblast_1.jpg" },
-  { "id": "013", "type": "image", "title": "uvlazhnitel vozdukha Montazhnaya oblast 1", "category": "kartochki-socseti", "media": "/cases/kartochki-socseti/uvlazhnitel_vozdukha_Montazhnaya_oblast_1.jpg" },
-  { "id": "014", "type": "image", "title": "lotos bez vodyanogo Montazhnaya oblast 1", "category": "logotipy", "media": "/cases/logotipy/lotos_bez_vodyanogo_Montazhnaya_oblast_1.jpg" },
-  { "id": "015", "type": "pdf", "title": "preza logo", "category": "logotipy", "media": "/cases/logotipy/preza_logo.pdf" },
-  { "id": "016", "type": "image", "title": "sirop Montazhnaya oblast 1", "category": "logotipy", "media": "/cases/logotipy/sirop_Montazhnaya_oblast_1.jpg" },
-  { "id": "017", "type": "image", "title": "vizitka diz Montazhnaya oblast 1 kopiya 4", "category": "logotipy", "media": "/cases/logotipy/vizitka_diz_Montazhnaya_oblast_1_kopiya_4.jpg" },
-  { "id": "018", "type": "image", "title": "flag fiol", "category": "merch", "media": "/cases/merch/flag_fiol.png" },
-  { "id": "019", "type": "image", "title": "flag zelyonyy", "category": "merch", "media": "/cases/merch/flag_zelyonyy.png" },
-  { "id": "020", "type": "image", "title": "itog svitshot zozh (1)", "category": "merch", "media": "/cases/merch/itog_svitshot_zozh_(1).png" },
-  { "id": "021", "type": "image", "title": "mokap futbolka (2)", "category": "merch", "media": "/cases/merch/mokap_futbolka_(2).png" },
-  { "id": "022", "type": "image", "title": "pop ap mokap", "category": "merch", "media": "/cases/merch/pop_ap_mokap.png" },
-  { "id": "023", "type": "image", "title": "roll ap mokap", "category": "merch", "media": "/cases/merch/roll_ap_mokap.png" },
-  { "id": "024", "type": "image", "title": "roll ap mokap fiol", "category": "merch", "media": "/cases/merch/roll_ap_mokap_fiol.png" },
-  { "id": "025", "type": "image", "title": "roll ap s kodami", "category": "merch", "media": "/cases/merch/roll_ap_s_kodami.png" },
-  { "id": "026", "type": "image", "title": "svitshot 1 na belom 02", "category": "merch", "media": "/cases/merch/svitshot_1_na_belom-02.jpg" },
-  { "id": "027", "type": "image", "title": "svitshot 1 na belom 03", "category": "merch", "media": "/cases/merch/svitshot_1_na_belom-03.jpg" },
-  { "id": "028", "type": "image", "title": "ves merch na belom fone Montazhnaya oblast 1 (1)", "category": "merch", "media": "/cases/merch/ves_merch_na_belom_fone_Montazhnaya_oblast_1_(1).jpg" },
-  { "id": "029", "type": "pdf", "title": "brendbuk", "category": "nash-brandbuk", "media": "/cases/nash-brandbuk/brendbuk.pdf" },
-  { "id": "030", "type": "pdf", "title": "cherepakha prezentatsiya (3) (1)", "category": "personazhiki", "media": "/cases/personazhiki/cherepakha_prezentatsiya_(3)_(1).pdf" },
-  { "id": "031", "type": "image", "title": "arey 3d plakat Montazhnaya oblast 1", "category": "plakaty", "media": "/cases/plakaty/arey_3d_plakat_Montazhnaya_oblast_1.jpg" },
-  { "id": "032", "type": "image", "title": "malevich plakat", "category": "plakaty", "media": "/cases/plakaty/malevich_plakat.jpg" },
-  { "id": "033", "type": "image", "title": "mokapy dlya avito 2 plakata Montazhnaya oblast 1", "category": "plakaty", "media": "/cases/plakaty/mokapy_dlya_avito_2_plakata_Montazhnaya_oblast_1.jpg" },
-  { "id": "034", "type": "image", "title": "vizitka diz Montazhnaya oblast 1 kopiya 8", "category": "plakaty", "media": "/cases/plakaty/vizitka_diz_Montazhnaya_oblast_1_kopiya_8.jpg" },
-  { "id": "035", "type": "pdf", "title": "Mokapy vse upakovki (2)", "category": "prezentacii-produktov", "media": "/cases/prezentacii-produktov/Mokapy_vse_upakovki_(2).pdf" },
-  { "id": "036", "type": "image", "title": "strekoza etiketka tsveta 04", "category": "prezentacii-produktov", "media": "/cases/prezentacii-produktov/strekoza_etiketka_tsveta-04.jpg" },
+  // Бизнес
+  { id: "001", type: "pdf", title: "Фэшн-предпринимательство", category: "Бизнес", media: "/cases/Бизнес-презентации/Проект_фэшн_предпринимательство_.pdf" },
+  { id: "002", type: "pdf", title: "ЗОЖ с нуля", category: "Бизнес", media: "/cases/Бизнес-презентации/презентация зож с нуля.pdf" },
+
+  // Брендбуки
+  { id: "003", type: "pdf", title: "Брендбук #4", category: "Брендбуки", media: "/cases/Брендбуки/Брендбук (4).pdf" },
+  { id: "004", type: "pdf", title: "Брендбук #3", category: "Брендбуки", media: "/cases/Брендбуки/брендбук (3).pdf" },
+  { id: "005", type: "pdf", title: "Брендбук 2.0", category: "Брендбуки", media: "/cases/Брендбуки/брендбук 2.0.pdf" },
+  { id: "006", type: "pdf", title: "Курск легче", category: "Брендбуки", media: "/cases/Брендбуки/курск легче.pdf" },
+  { id: "007", type: "pdf", title: "Брендбук Arey", category: "Брендбуки", media: "/cases/Наш-брендбук/брендбук.pdf" },
+
+  // Логотипы
+  { id: "008", type: "image", title: "Визитка", category: "Логотипы", media: "/cases/Логотипы/визитка_диз_Монтажная_область_1_копия_4.jpg", thumb: "/cases/Логотипы/визитка_диз_Монтажная_область_1_копия_4.jpg" },
+  { id: "009", type: "image", title: "Лотос", category: "Логотипы", media: "/cases/Логотипы/лотос_без_водяного_Монтажная_область_1.jpg", thumb: "/cases/Логотипы/лотос_без_водяного_Монтажная_область_1.jpg" },
+  { id: "010", type: "pdf", title: "Презентация логотипов", category: "Логотипы", media: "/cases/Логотипы/преза лого.pdf" },
+  { id: "011", type: "image", title: "Логотип «Сироп»", category: "Логотипы", media: "/cases/Логотипы/сироп_Монтажная область 1.jpg", thumb: "/cases/Логотипы/сироп_Монтажная область 1.jpg" },
+
+  // Мерч
+  { id: "012", type: "image", title: "Мерч на белом фоне", category: "Мерч", media: "/cases/Мерч/весь_мерч_на_белом_фоне_Монтажная_область_1 (1).jpg", thumb: "/cases/Мерч/весь_мерч_на_белом_фоне_Монтажная_область_1 (1).jpg" },
+  { id: "013", type: "image", title: "Свитшот ЗОЖ", category: "Мерч", media: "/cases/Мерч/итог свитшот зож (1).png", thumb: "/cases/Мерч/итог свитшот зож (1).png" },
+  { id: "014", type: "image", title: "Мокап футболки", category: "Мерч", media: "/cases/Мерч/мокап футболка (2).png", thumb: "/cases/Мерч/мокап футболка (2).png" },
+  { id: "015", type: "image", title: "Поп-ап мокап", category: "Мерч", media: "/cases/Мерч/поп ап мокап.png", thumb: "/cases/Мерч/поп ап мокап.png" },
+  { id: "016", type: "image", title: "Ролл-ап фиолетовый", category: "Мерч", media: "/cases/Мерч/ролл ап мокап фиол.png", thumb: "/cases/Мерч/ролл ап мокап фиол.png" },
+  { id: "017", type: "image", title: "Ролл-ап", category: "Мерч", media: "/cases/Мерч/ролл ап мокап.png", thumb: "/cases/Мерч/ролл ап мокап.png" },
+  { id: "018", type: "image", title: "Ролл-ап с кодами", category: "Мерч", media: "/cases/Мерч/ролл ап с кодами.png", thumb: "/cases/Мерч/ролл ап с кодами.png" },
+  { id: "019", type: "image", title: "Свитшот на белом", category: "Мерч", media: "/cases/Мерч/свитшот 1 на белом-02.jpg", thumb: "/cases/Мерч/свитшот 1 на белом-02.jpg" },
+  { id: "020", type: "image", title: "Свитшот вариация", category: "Мерч", media: "/cases/Мерч/свитшот 1 на белом-03.jpg", thumb: "/cases/Мерч/свитшот 1 на белом-03.jpg" },
+  { id: "021", type: "image", title: "Флаг зелёный", category: "Мерч", media: "/cases/Мерч/флаг зелёный.png", thumb: "/cases/Мерч/флаг зелёный.png" },
+  { id: "022", type: "image", title: "Флаг фиолетовый", category: "Мерч", media: "/cases/Мерч/флаг фиол.png", thumb: "/cases/Мерч/флаг фиол.png" },
+
+  // Персонажи
+  { id: "023", type: "pdf", title: "Черепаха — персонаж", category: "Персонажи", media: "/cases/Персонажики/черепаха презентация (3) (1).pdf" },
+
+  // Игры
+  { id: "024", type: "pdf", title: "Дизайн игры", category: "Игры", media: "/cases/дизайн-игры/игра_240217_142422.pdf" },
+  { id: "025", type: "pdf", title: "Приложение — фиолетовый", category: "Игры", media: "/cases/дизайн-игры/приложение фиол цвет _240215_184612.pdf" },
+
+  // Сайты
+  { id: "026", type: "pdf", title: "Дизайн сайта", category: "Сайты", media: "/cases/дизайн-сайтов/сайт (2).pdf" },
+
+  // Соцсети
+  { id: "027", type: "image", title: "Карточка «Лампа»", category: "Соцсети", media: "/cases/карточки-и-соцсети/ржб лампа_Монтажная область 1.jpg", thumb: "/cases/карточки-и-соцсети/ржб лампа_Монтажная область 1.jpg" },
+  { id: "028", type: "image", title: "Карточка «Сироп»", category: "Соцсети", media: "/cases/карточки-и-соцсети/сироп_Монтажная область 1.jpg", thumb: "/cases/карточки-и-соцсети/сироп_Монтажная область 1.jpg" },
+  { id: "029", type: "image", title: "Карточка «Увлажнитель»", category: "Соцсети", media: "/cases/карточки-и-соцсети/увлажнитель_воздуха_Монтажная_область_1.jpg", thumb: "/cases/карточки-и-соцсети/увлажнитель_воздуха_Монтажная_область_1.jpg" },
+  { id: "030", type: "image", title: "Карточка «Фен»", category: "Соцсети", media: "/cases/карточки-и-соцсети/фен_Монтажная область 1.jpg", thumb: "/cases/карточки-и-соцсети/фен_Монтажная область 1.jpg" },
+
+  // Плакаты
+  { id: "031", type: "image", title: "3D-плакат Arey", category: "Плакаты", media: "/cases/плакаты/arey 3д плакат_Монтажная область 1.jpg", thumb: "/cases/плакаты/arey 3д плакат_Монтажная область 1.jpg" },
+  { id: "032", type: "image", title: "Визитка — вариация", category: "Плакаты", media: "/cases/плакаты/визитка_диз_Монтажная_область_1_копия_8.jpg", thumb: "/cases/плакаты/визитка_диз_Монтажная_область_1_копия_8.jpg" },
+  { id: "033", type: "image", title: "Плакат «Малевич»", category: "Плакаты", media: "/cases/плакаты/малевич плакат.jpg", thumb: "/cases/плакаты/малевич плакат.jpg" },
+  { id: "034", type: "image", title: "Мокапы для Авито", category: "Плакаты", media: "/cases/плакаты/мокапы_для_авито_2_плаката_Монтажная_область_1.jpg", thumb: "/cases/плакаты/мокапы_для_авито_2_плаката_Монтажная_область_1.jpg" },
+
+  // Продукты
+  { id: "035", type: "pdf", title: "Мокапы упаковок", category: "Продукты", media: "/cases/презентации-продуктов/Мокапы все упаковки (2).pdf" },
+  { id: "036", type: "image", title: "Этикетка «Стрекоза»", category: "Продукты", media: "/cases/презентации-продуктов/стрекоза этикетка цвета-04.jpg", thumb: "/cases/презентации-продуктов/стрекоза этикетка цвета-04.jpg" },
+  { id: "037", type: "gallery", title: "ВитаЕЖ", category: "Продукты", media: "/cases/презентации-продуктов/ВитаЕЖ/photo_5465644874469602124_y.jpg", thumb: "/cases/презентации-продуктов/ВитаЕЖ/photo_5465644874469602124_y.jpg", gallery: [
+    "/cases/презентации-продуктов/ВитаЕЖ/photo_5465644874469602124_y.jpg",
+    "/cases/презентации-продуктов/ВитаЕЖ/photo_5465644874469602125_y.jpg"
+  ]},
+  { id: "038", type: "gallery", title: "Презентация СПФ", category: "Продукты", media: "/cases/презентации-продуктов/презентация-СПФ/презентация спф-02.jpg", thumb: "/cases/презентации-продуктов/презентация-СПФ/презентация спф-02.jpg", gallery: [
+    "/cases/презентации-продуктов/презентация-СПФ/презентация спф-02.jpg",
+    "/cases/презентации-продуктов/презентация-СПФ/презентация спф-03.jpg",
+    "/cases/презентации-продуктов/презентация-СПФ/презентация спф-04 (1).jpg",
+    "/cases/презентации-продуктов/презентация-СПФ/презентация спф-05.jpg",
+    "/cases/презентации-продуктов/презентация-СПФ/презентация спф-06.jpg",
+    "/cases/презентации-продуктов/презентация-СПФ/презентация спф-07.jpg",
+    "/cases/презентации-продуктов/презентация-СПФ/презентация спф-08.jpg",
+    "/cases/презентации-продуктов/презентация-СПФ/презентация_спф_Монтажная_область_1.jpg"
+  ]},
 ];
